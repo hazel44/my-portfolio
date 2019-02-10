@@ -8,6 +8,7 @@ h1 {
 }
 img {
   max-width: 10%;
+
 }
 .projects {
   background-color: pink;
@@ -24,4 +25,7 @@ img {
 }
 em {
   color: blue;
+}
+.test-box {
+  border: 2px solid black;
 }
