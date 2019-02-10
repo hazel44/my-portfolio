@@ -10,11 +10,18 @@ img {
   max-width: 10%;
 }
 .projects {
-  background-color: white;
+  background-color: pink;
 }
 .Hobbies {
   background-color: grey;
 }
 .reason {
   color: red;
+}
+.sidebar {
+  background-color: grey;
+  width: 30%;
+}
+em {
+  color: blue;
 }
