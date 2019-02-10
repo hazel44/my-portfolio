@@ -29,3 +29,6 @@ em {
 .test-box {
   border: 2px solid black;
 }
+.test-box {
+  padding: 6px;
+}
