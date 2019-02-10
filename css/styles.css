@@ -9,3 +9,12 @@ h1 {
 img {
   max-width: 10%;
 }
+.projects {
+  background-color: white;
+}
+.Hobbies {
+  background-color: grey;
+}
+.reason {
+  color: red;
+}
