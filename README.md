@@ -1,4 +1,4 @@
-# Project name
+# Project Name
 Miriams Landing Portfolio page
 ## Author
 Miriam Hazel Oduor.
@@ -8,4 +8,4 @@ their links.I have used css and HTML languages.
 ## Setup Instructions
 No setup Instructions are needed.
 ## Copyright & Licence information
-Licenced under the [MIT Licence].(LICENCE)
+Licenced under the [MIT Licence].(LICENCE) Copright (c) [2019] Miriam Hazel Oduor
