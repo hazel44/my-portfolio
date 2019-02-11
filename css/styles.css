@@ -1,5 +1,5 @@
 body {
-  background-color: teal;
+  background-color: white;
 }
 h1 {
   color: purple;
@@ -11,7 +11,7 @@ img {
 
 }
 .projects {
-  background-color: pink;
+  background-color: #9e9d24 ;
 }
 .Hobbies {
   background-color: grey;
@@ -37,4 +37,7 @@ em {
 }
 .projects li {
   font-weight: bold;
+}
+h1 {
+  text-align: center;
 }
